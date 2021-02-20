@@ -40,7 +40,7 @@ Keys:
 ![](Demo/night_effect.png)
 
 ## Technology
-Project coded with C++ with OpenGL library (GLEW, GLFW). Model loading with ASSIMP library.
+Project coded with C++ with OpenGL library (GLEW, GLFW, GLM). Model loading with ASSIMP library.
 
 ## References
 All needed references included in the repo. 
@@ -48,4 +48,4 @@ Note that, the app needs **assimp-vc140-mt.dll** to work properly. It has been i
 
 This project uses some code from [learnopengl.com](https://learnopengl.com/). I highly recommend this tutorial. 
 
-Other references: [GLEW](http://glew.sourceforge.net/), [GLFW](https://www.glfw.org/), [ASSIMP](https://www.assimp.org/).
+Other references: [GLEW](http://glew.sourceforge.net/), [GLFW](https://www.glfw.org/), [GLM](https://github.com/g-truc/glm), [ASSIMP](https://www.assimp.org/).
