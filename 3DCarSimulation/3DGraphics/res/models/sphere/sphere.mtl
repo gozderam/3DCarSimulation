@@ -1,0 +1,19 @@
+#
+#
+#
+
+newmtl  Mesh_Beach_Ball_rubber
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.567000 0.567000 0.567000
+Ns 25.999992
+map_Kd Beach_Ball_diffuse.jpg
+
+newmtl  Mesh_Beach_Ball_transparent_plastic
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.432000 0.432000 0.432000
+Ns 30.000010
+
